@@ -1,0 +1,5 @@
+{
+  "name": "Tiempo Extra - Loyalty App",
+  "description": "A customer loyalty application for the 'Tiempo Extra' sports bar. Customers earn stamps for visits and receive a discount after six qualifying visits. The app includes a customer view for the loyalty card and a business view to scan and redeem rewards.",
+  "requestFramePermissions": []
+}
